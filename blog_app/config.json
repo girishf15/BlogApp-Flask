@@ -1,0 +1,16 @@
+{
+    "params" : {
+        "blog_name" : "Coding Thunder",
+        "local_server" : true,
+        "local_server_uri" : "mysql://root:password@127.0.0.1:3306/codingthunder",
+        "prod_server_uri" : "mysql://root:password@127.0.0.1:3306/codingthunder",
+        "mail_password" : "ljknsljjkbfsndlj;Kxdjtxd7kSvU9UUcGfzzkXve_IpcIWtYJoxU",
+        "mail_username" : "apikey",
+        "no_of_posts" : 2,
+        "login_image" : "login.jpg",
+        "admin_username" : "girishfedram@gmail.com",
+        "admin_password" : "qwerty",
+        "upload_location" : "//home//girish//workspace//Learning//Flask//flask_tutorial//blog_app//static//img"
+
+    } 
+}
